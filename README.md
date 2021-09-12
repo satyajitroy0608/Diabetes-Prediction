@@ -6,4 +6,4 @@ The model makes use of 2 algorithms separately:
 1. Random Forest Classifier
 2. XGBoost Classifier with Hyperparameter Optimization using RandomizedSearchCV
 
-XGBoost algorithm with Hyperparameter Optimization using RandomizedSearchCV performs better than Random Forest Classifier.
+XGBoost Classifier with Hyperparameter Optimization using RandomizedSearchCV performs better than Random Forest Classifier.
